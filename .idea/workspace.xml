@@ -43,4 +43,18 @@
     <MESSAGE value="PRoyecto Inicial" />
     <option name="LAST_COMMIT_MESSAGE" value="PRoyecto Inicial" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="299" key="Github.ShareDialog" timestamp="1604005560820">
+      <screen x="0" y="23" width="1360" height="745" />
+    </state>
+    <state x="557" y="299" key="Github.ShareDialog/0.23.1360.745@0.23.1360.745" timestamp="1604005560820" />
+    <state x="414" y="100" key="Github.UntrackedFilesDialog" timestamp="1604005681823">
+      <screen x="0" y="23" width="1360" height="745" />
+    </state>
+    <state x="414" y="100" key="Github.UntrackedFilesDialog/0.23.1360.745@0.23.1360.745" timestamp="1604005681823" />
+    <state x="280" y="135" key="Vcs.Push.Dialog.v2" timestamp="1604005869318">
+      <screen x="0" y="23" width="1360" height="745" />
+    </state>
+    <state x="280" y="135" key="Vcs.Push.Dialog.v2/0.23.1360.745@0.23.1360.745" timestamp="1604005869318" />
+  </component>
 </project>
